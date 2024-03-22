@@ -1,0 +1,16 @@
+.booklist .booklist-inner {
+  border: 2px solid black;
+  margin: 15px 0;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.booklist {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
